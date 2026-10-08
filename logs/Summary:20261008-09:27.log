@@ -1,0 +1,74 @@
+ BACKUP FILE COMPARISON
+============================================================
+SERVER : wspace 192.168.100.71
+
+Local files : 1200
+S3 files    : 1200
+
+RESULT: PASS
+============================================================
+SERVER : urbanity 192.168.100.69
+
+Local files : 1942
+S3 files    : 1942
+
+RESULT: PASS
+============================================================
+SERVER : happywell 192.168.100.64
+
+Local files : 250
+S3 files    : 250
+
+RESULT: PASS
+============================================================
+SERVER : landev 192.168.100.61
+
+Local files : 48
+S3 files    : 75
+
+RESULT: PASS
+============================================================
+SERVER : mmgi 192.168.100.65
+
+Local files : 3432
+S3 files    : 3432
+
+RESULT: PASS
+============================================================
+SERVER : picar 192.168.100.67
+
+Local files : 60
+S3 files    : 60
+
+RESULT: PASS
+============================================================
+SERVER : rockwell club-server
+
+Local files : 586
+S3 files    : 586
+
+RESULT: PASS
+============================================================
+SERVER : tldc 192.168.100.63
+
+Local files : 3088
+S3 files    : 3088
+
+RESULT: PASS
+============================================================
+SERVER : IMS 192.168.100.77
+
+Local files : 35
+S3 files    : 35
+
+RESULT: PASS
+============================================================
+SERVER : WIKI 192.168.100.11
+
+Local files : 8
+S3 files    : 8
+
+RESULT: PASS
+============================================================
+Log file: ./logs/Summary:20261008-09:27.log
+Completed: Thu Oct  8 09:28:33 AM PST 2026

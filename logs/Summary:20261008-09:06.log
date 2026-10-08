@@ -1,0 +1,75 @@
+ BACKUP FILE COMPARISON
+============================================================
+SERVER : wspace 192.168.100.71
+
+Local files : 1196
+S3 files    : 1196
+
+RESULT: PASS
+============================================================
+SERVER : urbanity 192.168.100.69
+
+Local files : 1934
+S3 files    : 1934
+
+RESULT: PASS
+============================================================
+SERVER : happywell 192.168.100.64
+find: ‘/home/backup/base_backup/done/20261007’: No such file or directory
+
+Local files : 0
+S3 files    : 242
+
+RESULT: PASS
+============================================================
+SERVER : landev 192.168.100.61
+
+Local files : 48
+S3 files    : 75
+
+RESULT: PASS
+============================================================
+SERVER : mmgi 192.168.100.65
+
+Local files : 3424
+S3 files    : 3424
+
+RESULT: PASS
+============================================================
+SERVER : picar 192.168.100.67
+
+Local files : 2074
+S3 files    : 2074
+
+RESULT: PASS
+============================================================
+SERVER : rockwell club-server
+
+Local files : 584
+S3 files    : 584
+
+RESULT: PASS
+============================================================
+SERVER : tldc 192.168.100.63
+
+Local files : 3080
+S3 files    : 3080
+
+RESULT: PASS
+============================================================
+SERVER : IMS 192.168.100.77
+
+Local files : 35
+S3 files    : 35
+
+RESULT: PASS
+============================================================
+SERVER : WIKI 192.168.100.11
+
+Local files : 8
+S3 files    : 8
+
+RESULT: PASS
+============================================================
+Log file: ./logs/Summary:20261008-09:06.log
+Completed: Thu Oct  8 09:07:15 AM PST 2026
